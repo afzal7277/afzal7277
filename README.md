@@ -9,6 +9,7 @@
   <a href="https://linkedin.com/in/zafarafzal"><img src="https://img.shields.io/badge/LinkedIn-zafarafzal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:afzalzafar79@gmail.com"><img src="https://img.shields.io/badge/Email-afzalzafar79@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-34A853?style=for-the-badge&logo=google-maps&logoColor=white"/>
+  <a href="https://afzal7277.github.io"><img src="https://img.shields.io/badge/Portfolio-afzal7277.github.io-00E5FF?style=for-the-badge&logo=github&logoColor=black"/></a>
 </p>
 
 ---
